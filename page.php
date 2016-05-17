@@ -11,7 +11,7 @@
  *
  * @package ippo-altai
  */
-
+  
 get_header(); ?>
 
 	<div id="primary" class="content-area">
